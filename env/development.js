@@ -2,8 +2,8 @@ module.exports = {
   // seo
   title: '【サイト名】',
   description: '【サイト詳細】',
-  baseUrl: 'http://localhost:3000',
+  baseUrl: 'https://kalimotxo9507.github.io/kalimotxo.github.io',
 
   // settings
-  pageRange: 5
+  pageRange: 5,
 }
